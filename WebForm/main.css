@@ -1,0 +1,35 @@
+#val_firstName{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 24px;
+    display: none;
+}
+
+#val_lastName{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 24px;
+    display: none;
+}
+
+#val_email{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 24px;
+    display: none;
+}
+
+#val_password{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 24px;
+    display: none;
+}
